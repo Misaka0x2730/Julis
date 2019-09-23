@@ -1,2 +1,2 @@
 # Julis
-Expansion test board for Arty Z7-20.
+Expansion test board of ARM Debugger for NUCLEO-F746ZG. 
